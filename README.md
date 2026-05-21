@@ -7,6 +7,7 @@ The next folder of interest is the RBF Folder which includes three pairs of pyth
 The final folder is the time delay embedding folder, which includes an example of solving the forecast for the x dimension of the Lorenz 1963 system when only the x dimension is observed/trained on.
 
 Here is an example of the update rule being applied to a vector moving along the Lorenz1963 system. This is just a visualization tool for understanging how a vector space is built by DDF and then an update rule is applied to our state vector.
+
 https://github.com/user-attachments/assets/52b1f855-eaf7-496d-a26a-26f5844f0488
 
 
